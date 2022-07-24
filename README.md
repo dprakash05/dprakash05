@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dprakash
 - 👀 I’m interested in ... Data Scientist 
-- 🌱 I’m currently learning ... AWS
+- 🌱 I’m currently learning ... AWS GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email id- dprakash05@gmail.com
 
